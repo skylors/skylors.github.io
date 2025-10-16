@@ -18,3 +18,10 @@
   50% { transform: rotate(1deg) translateX(1px); }
   100% { transform: rotate(-1deg) translateX(-1px); }
 }
+.center-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
