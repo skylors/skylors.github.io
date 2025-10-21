@@ -25,3 +25,6 @@
   text-align: center;
   min-height: 100vh;
 }
+.list {
+  list-style-image: url("img/trifoil.png");
+}
