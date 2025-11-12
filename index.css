@@ -28,3 +28,8 @@
 .list {
   list-style-image: url("img/trifoil.png");
 }
+.toaster{
+	animation: vibrate 0.1s infinite;
+	
+	
+}
